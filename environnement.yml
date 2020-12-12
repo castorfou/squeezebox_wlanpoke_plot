@@ -1,0 +1,16 @@
+name: squeezebox
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - scikit-learn
+  - statsmodels
+  - console_shortcut
+  - matplotlib
+  - pandas
+  - nb_conda
+  - seaborn
+  - jupyter_contrib_nbextensions
+prefix: /home/explore/miniconda3/envs/squeezebox
