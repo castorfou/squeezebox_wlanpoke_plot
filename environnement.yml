@@ -13,4 +13,5 @@ dependencies:
   - nb_conda
   - seaborn
   - jupyter_contrib_nbextensions
+  - papermill
 prefix: /home/explore/miniconda3/envs/squeezebox
